@@ -1,1 +1,4 @@
 Bu kadun push edilmesi ile birlikte jenkins GitHub-Webhook-EU11 job otomatik olarak calistirilacak
+
+
+Degisiklik yaptim ve GitHub-Webhook-EU11 yine calistirilcak....

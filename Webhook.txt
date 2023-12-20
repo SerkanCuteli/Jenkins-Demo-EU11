@@ -1,0 +1,1 @@
+Bu kadun push edilmesi ile birlikte jenkins GitHub-Webhook-EU11 job otomatik olarak calistirilacak
